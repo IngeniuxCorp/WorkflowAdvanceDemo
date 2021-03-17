@@ -1,0 +1,15 @@
+﻿body {
+}
+
+.button-col{
+	padding:.75rem;
+}
+
+
+.bi-check-square-fill{
+	color:green;
+}
+
+.bi-x-square-fill{
+	color:red;
+}
